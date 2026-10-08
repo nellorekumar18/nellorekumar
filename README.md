@@ -1,5 +1,5 @@
-# Hi 👋, I'm Nellore Kumar
+# Hi 👋, I'm KUMAR NELLORE
 
-MCA Graduate | Software Developer
+MCA Graduate | Full-Stack Web Developer
 
 I’m building practical software projects and continuously improving my development skills.
